@@ -22,6 +22,11 @@
 - [The Open Source contributor funnel](https://github.com/AbcSxyZ/Open-Source-Education/edit/main/awesome-open-source-resources.md) - Mike McQuaid
 - [Awesome maintainers](https://github.com/nayafia/awesome-maintainers) - *"Talks, blog posts, and interviews about the experience of being an open source maintainer"*
 
+## Recherches
+
+- [Why We Engage in FLOSS: Answers from Core Developers](https://arxiv.org/pdf/1803.05741.pdf)
+- [Business models for open source hardware](https://tel.archives-ouvertes.fr/tel-02504769/document)
+
 ## Vidéos
 
 ### Courte (< 30 min)
