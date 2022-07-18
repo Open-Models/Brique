@@ -11,3 +11,4 @@ Source : [Open Source Hardware Association](https://www.oshwa.org/definition/fre
 - [Open Source Ecology](https://www.opensourceecology.org/)
 - [PinePhone](https://www.pine64.org/)
 - [Liste de projets open hardware](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
+- [Thingiverse](https://www.thingiverse.com/)
