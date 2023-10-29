@@ -226,6 +226,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 👩🏽‍🔬 [Open Science for private Interests? How the Logic of Open Science Contributes to the Commercialization of Research](https://www.frontiersin.org/articles/10.3389/frma.2020.588331/full)
 - 👩🏽‍🔬 [Open access publishing – noble intention, flawed reality](https://www.sciencedirect.com/science/article/pii/S027795362200898X)
 - 🛠️ [Core](https://core.ac.uk/)
+- 🛠️ [OpenAlex](https://openalex.org/), index of the world's scholarly research system 
 - 🛠️ [oa.mg](https://oa.mg/), open access search engine
 - 🛠️ [BASE](https://www.base-search.net/), Bielefeld Academic Search
 - 🛠️ [Explore OpenAIRE](https://explore.openaire.eu/), search engine for open research data
@@ -283,6 +284,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [Coalition for Advancing Research Assessment](https://coara.eu/) (CoARA)
 - 🕴️🇫🇷 [Centre pour la Communication Scientifique Directe](https://www.ccsd.cnrs.fr/) (CCSD)
 - 🕴️[OpenAIRE](https://www.openaire.eu/), create and operate services for Open Science
+- 🕴️ [OurResearch](https://ourresearch.org/), make tools that make research more open
 - 🕴️ [Confederation of Open Access Repositories](https://www.coar-repositories.org)
 - 🕴️ [European Open Science Cloud](https://eosc-portal.eu/)
 - 🕴️ [Public Library of Science](https://plos.org/) (PLOS)
