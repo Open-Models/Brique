@@ -26,7 +26,7 @@ Open educational resources are going to be protean: a textbook, a text, a video,
 * [Mason OER Metafinder](https://mom.gmu.edu) (MOM), search engine for OER
 * 🇨🇭 [Swiss Digital Skills Academy](https://d-skills.ch/), swissuniversities initiative for open education training
 * [Handbook of Open, Distance and Digital Education](https://link.springer.com/referencework/10.1007/978-981-19-2080-6)
-* The [Brick of Knowledge on Open Models](https://open-models.org)
+* The [Branch of Knowledge on Open Models](https://open-models.org)
 * [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
 
 The way in which these resources are built and used will depend on a whole range of strategies depending on the pedagogical context: face-to-face or distance learning, synchronous or asynchronous, with a more or less active pedagogy, based or not on a community of practice... Pedagogy in all its complexity enriches open education.
@@ -41,17 +41,17 @@ Although limited and highly variable from one field to another, it is already po
 
 On certain new subjects or those that are insufficiently taught in traditional education, it even seems necessary to rely on open education for training, starting with open models or ecology.
 
-Impossible to meet all needs and cite all existing open educational resources, it will be important to conduct an exploration phase on the Internet or in OER databases, [the list of resources in the brick](/resources.html) is a first track.
+Impossible to meet all needs and cite all existing open educational resources, it will be important to conduct an exploration phase on the Internet or in OER databases, [the resources list of the branch](/resources.html) is a first track.
 
 There is no single answer to the problem of how to produce open education training. There is a whole range of possible approaches, from publishing a PowerPoint-type presentation under an open license, to structuring a complex environment for collaboratively producing OER and enabling interaction between learners.
 
 While we know that much remains to be invented, the tools needed to produce open educational resources will vary from one project to another, depending on financial and human resources, technical skills, and so on.
 
-> **The Open Models Knowledge Brick** is a complex example of open education, an experiment of open educational resource for education in open models, in a digital commons logic developed using open software tools such as [Markdown](https://www.markdowntutorial.com/), [git](https://about.gitlab.com/topics/version-control/what-is-git-version-control/) and [GitHub](https://en.wikipedia.org/wiki/GitHub).
+> **The Open Models Knowledge Branch** is a complex example of open education, an experiment of open educational resource for education in open models, in a digital commons logic developed using open software tools such as [Markdown](https://www.markdowntutorial.com/), [git](https://about.gitlab.com/topics/version-control/what-is-git-version-control/) and [GitHub](https://en.wikipedia.org/wiki/GitHub).
 >
 > The project is intended to be a resource accessible to anyone wishing to learn about open models. Although it requires some technical knowledge with which to familiarize oneself, all content is retrievable, modifiable and shareable. Pedagogical content that is freely accessible, that can be co-produced, based on [spaces for exchange with the community around the project](/README.html#contribute-), learners and stakeholders who gravitate around open models
 >
-> Many trainers in open models and in digital technology more broadly could find interest in this type of pedagogical content within a whole range of organizations: schools, universities, but also in IT, public institutions, etc. The commercial use of the brick being permitted, a service activity such as offering training in open models on a freelance basis becomes possible.
+> Many trainers in open models and in digital technology more broadly could find interest in this type of pedagogical content within a whole range of organizations: schools, universities, but also in IT, public institutions, etc. The commercial use of the branch being permitted, a service activity such as offering training in open models on a freelance basis becomes possible.
 
 ## Landscape
 
