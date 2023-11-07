@@ -17,6 +17,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 8. [Open License](#open-license)
 9. [Open Content](#open-content)
 10. [Open Scholarship](#open-scolarship)
+10. [Open Schooling](#open-scooling)
 11. [Open Business](#open-business)
 12. [Open Health](#open-health)
 13. [Open Music](#open-music)
@@ -448,6 +449,11 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 👩🏽‍🔬 [The open academic: Why and how business academics should use social media to be more ‘open’ and impactful](https://doi.org/10.1016/j.bushor.2022.05.001)
 - 📚 [List of open universities](https://en.wikipedia.org/wiki/List_of_open_universities), Wikipedia
 - 📚 [Ubiquity Press](https://www.ubiquitypress.com/), open access publisher of peer-reviewed academic journals, books and data
+
+## Open Schooling
+
+- 🕴️ [Make It Open](https://makeitopen.eu/), open schooling actor
+- 🛠️ [Open Schooling Navigator](https://openschoolingnavigator.eu/)
 
 ## Open Business
 
