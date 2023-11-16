@@ -276,6 +276,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📰 [List of preprint repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories)
 - 📰 [« La science ouverte est une nouvelle façon de diffuser les savoirs, et les bibliothèques sont au cœur de cette évolution »](https://bbf.enssib.fr/bbffocus/la-science-ouverte-est-une-nouvelle-facon-de-diffuser-les-savoirs-et-les-bibliotheques-sont-au-coeur-de-cette-evolution_70750), interview responsables BU
 - 📰 [The rise and fall of peer review](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
+- 📰 [Has Open Access become a 'band-aid' for an historical 'innovation-gone-wrong'?](https://www.leidenmadtrics.nl/articles/has-open-access-become-a-band-aid-for-an-historical-innovation-gone-wrong)
 - 📰 [Se réapproprier la production de connaissance](https://aoc.media/opinion/2023/05/17/se-reapproprier-la-production-de-connaissance/), introduction licence UsageRight
 - 🕴️ [Peer Community In](https://peercommunityin.org/), organization of researchers offering peer review
 - 🛠️ [OpenReview](https://openreview.net/)
