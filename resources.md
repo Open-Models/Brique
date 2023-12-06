@@ -237,6 +237,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🛠️ 🇪🇺 [Open Mining INfrastructure for TExt and Data](http://openminted.eu/) (OpenMinTeD)
 - 🛠️ [Open Researcher and Contributor ID](https://orcid.org/) (ORCID)
 - 🛠️ [Invenio](https://inveniosoftware.org/), open software for open science publication platform (Zenodo base)
+- 🛠️ [DSpace](https://dspace.lyrasis.org/), open software for open science publication platform
 - 🛠️ [Prereview](https://prereview.org/), open peer review platform
 - 📚 [Open Science Framework](https://osf.io/)
 - 📚 [HAL archive ouverte](https://hal.archives-ouvertes.fr/)
