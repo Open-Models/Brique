@@ -362,6 +362,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🏦 🇺🇸 [Open Education at Office of Educational Technology](https://tech.ed.gov/open/), U.S. Department of Education Office of Educational Technology
 - 🛠️ [Openly Available Sources Integrated Search](https://oasis.geneseo.edu/index.php) (OASIS), OER search engine
 - 🛠️ [The Mason OER Metafinder](https://mom.gmu.edu) (MOM), OER search engine
+- 🛠️ [MoodleNet](https://moodle.net/), OER search engine
 - 🛠️ [PressBooks](https://pressbooks.com/), open book creation platform
 - 🛠️ [Florilège](https://florilege.ls2n.fr/), French-language OER indexing by manual annotation
 - 🛠️ [convOERter](https://convoerter-eval.elearn.rwth-aachen.de/en/), convert presentation to OER
