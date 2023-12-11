@@ -365,6 +365,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🛠️ [PressBooks](https://pressbooks.com/), open book creation platform
 - 🛠️ [Florilège](https://florilege.ls2n.fr/), French-language OER indexing by manual annotation
 - 🛠️ [convOERter](https://convoerter-eval.elearn.rwth-aachen.de/en/), convert presentation to OER
+- 🛠️ [Open Educators Factory](http://rd.unir.net/pub/oef/login.php), self-assessment questionnaire with recommendations
 
 ## Open Innovation
 
