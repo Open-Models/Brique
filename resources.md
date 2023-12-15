@@ -163,6 +163,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [Apereo Foundation](https://www.apereo.org/), Open Source Software Serving the Academic Mission, institutions network
 - 🕴️ 🇫🇷 [ESUP-PORTAIL](https://www.esup-portail.org/), community for the development of open source university solutions
 - 🕴️ [Framasoft](https://framasoft.org/fr/)
+- 🕴️ [All In Open Source](https://allinopensource.org/), community to advance diversity, equity, and inclusion within open source
 - 🕴️ [Open Mainframe Project](https://www.openmainframeproject.org/)
 - 🕴️ [Open Source Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor) (OSOR), European Commission
 - 🕴️ [Foundation for Public Code](https://publiccode.net/)
