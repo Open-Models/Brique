@@ -193,6 +193,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🛠️ [OSS.Fund](https://www.oss.fund/), catalog of monetization platforms for open source builders
 - 🛠️ [NGI Search](https://www.ngisearch.eu/), Funding the Next Generation of (open source) Web Searching Tools
 - 🛠️ [Open Collective](https://opencollective.com/), legal and financial toolbox for grassroots groups
+- 🛠️ [Open Source Heroes](https://opensource-heroes.com/) (BETA), search engine for top-rated open source developers and organizations
 - 🛠️ [Open Source JobHub](https://opensourcejobhub.com/)
 - 🛠️ [ossjobs.dev](https://www.ossjobs.dev/)
 - 🛠️ [ForgeFed](https://forgefed.org/), federation protocol for software forges
