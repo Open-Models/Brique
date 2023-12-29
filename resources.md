@@ -42,6 +42,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - [Open Work Definition](https://openworkdefinition.com/)
 - [Open Design Definition](https://github.com/OpenDesign-WorkingGroup/Open-Design-Definition/blob/master/open.design_definition/open.design.definition.md)
 - 📡 [Les communs d'abord](https://www.les-communs-dabord.org/)
+- 📡 👩🏽‍🔬 [Journal of Openness, Commons & Organizing](https://rgcs-owee.org/joco/) (JOCO)
 - 📖 [Open Models : les business models de l'économie ouverte](https://drive.google.com/file/d/0B3FF0PcRH-F7YTduczNYdmNzT2s/view?resourcekey=0-JLwfPn6eT6eavH5lU1D9Aw) - coordonné par Louis-David Benyayer
 - 📖 [The Public Domain: Enclosing the Commons of the Mind](https://thepublicdomain.org/thepublicdomain1.pdf), James Boyle
 - 📖 Kritika: Essays on Intellectual Property,  Peter Drahos, Gustavo Ghidini, Hanns Ullrich
