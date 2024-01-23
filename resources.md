@@ -230,8 +230,6 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🛠️ [BASE](https://www.base-search.net/), Bielefeld Academic Search
 - 🛠️ [Explore OpenAIRE](https://explore.openaire.eu/), search engine for open research data
 - 🛠️ [LA Referencia](https://www.lareferencia.info/en/), open access search engine for latin america
-- 🛠️ [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
-- 🛠️ [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), search engine for articles and books
 - 🛠️ [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/), analysis of publishers' open access policies
 - 🛠️ [Unpaywall](https://unpaywall.org/), browser extension to bypass paywalls
 - 🛠️ 🇪🇺 [Open Mining INfrastructure for TExt and Data](http://openminted.eu/) (OpenMinTeD)
@@ -488,3 +486,6 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 
 - 📖 [Swarmwise](https://falkvinge.net/files/2013/04/Swarmwise-2013-by-Rick-Falkvinge-v1-Final-2013Jul18.pdf) - Rick Falkvinge
 - 📖 [Howdy or Hello? Technical and Professional Communication](https://pressbooks.library.tamu.edu/howdyorhello/), by a Texas OER Committee
+- 🛠️ [Sci-Hub](https://fr.wikipedia.org/wiki/Sci-Hub)
+- 🛠️ [Libgen](https://fr.wikipedia.org/wiki/Library_Genesis), search engine for articles and books
+- 🛠️ [Anna's Archive](https://annas-archive.org/), the largest truly open library in human history
