@@ -65,6 +65,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - [copyleft.org](https://copyleft.org/)
 - [The Open Definition](https://opendefinition.org/), by Open Knowldege Foundation
 - 👩🏽‍🔬 [Comment faire converger la transition numérique et la transition écologique au Québec dans un horizon de 20 ans ?](https://cheminsdetransition.org/defi-numerique.pdf), Chemins de transition (Montreal University)
+- 📰 [Question Copyright](https://questioncopyright.org/index.html), blog for public debate on copyright [deprecated]
 - 📰 [Podcast Brevets et droits d’auteur : propriétés fragiles](https://www.radiofrance.fr/franceculture/podcasts/concordance-des-temps/brevets-et-droits-d-auteur-proprietes-fragiles-2322638), France Culture avec l'Historien Gabriel Galvez-Behar
 - 📰 [Paradox of Open](https://openfuture.eu/publication/paradox-of-open-responses/) by Open Future Foundation (answers)
 - 📚 [Openverse](https://wordpress.org/openverse/), image and sound bank
