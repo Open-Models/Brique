@@ -412,6 +412,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [PinePhone](https://www.pine64.org/)
 - 🕴️ [Open Compute Project](https://www.opencompute.org/)
 - 🕴️ Hugh Piggott [wind turbine](https://scoraigwind.co.uk/about/)
+- 📰 [Native OpenBIM, and the rise of open source in Architecture, Engineering, and Construction](https://aecmag.com/collaboration/native-openbim-and-the-rise-of-open-source-in-aec/)
 - 📰 [List of Open Hardware Projects](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects), Wikipedia
 - 📰 ["Open Design" or "Open Source Hardware"? Lets talk about what?](https://larszimmermann.de/open-design-or-open-source-hardware-lets-talk-about-what/)
 - 📰 [Abandoned, The human cost of neurotechnology failure](https://www.nature.com/immersive/d41586-022-03810-5/index.html)
