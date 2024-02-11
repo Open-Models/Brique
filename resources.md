@@ -316,6 +316,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📚 [Open Textbook Library](https://open.umn.edu/opentextbooks), powered by Open Education Network
 - 📚 [Open Library](https://openlibrary.ecampusontario.ca/), powered by eCampusOntario
 - 📚 🇺🇸 [OERTX](https://oertx.highered.texas.gov/), OER used by higher education institutions in Texas
+- 📚 [Switch](https://oer.switch.ch/), OER repository in Switzerland
 - 📚 [Innovation Pédagogique et Transition](https://www.innovation-pedagogique.fr/article39.html)
 - 📚 [Open Source Society University](https://github.com/ossu)
 - 🕴️ 🇫🇷 [Délégation Académique au Numérique Éducatif (DANE)](https://www.ac-paris.fr/delegation-academique-au-numerique-educatif-dane-122341), AC Paris
