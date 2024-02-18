@@ -195,6 +195,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🛠️ [Open Collective](https://opencollective.com/), legal and financial toolbox for grassroots groups
 - 🛠️ [Open Source JobHub](https://opensourcejobhub.com/)
 - 🛠️ [ossjobs.dev](https://www.ossjobs.dev/)
+- 🛠️ [Fossfox](https://fossfox.com/), job board
 - 🛠️ [ForgeFed](https://forgefed.org/), federation protocol for software forges
 
 ## Open Science
