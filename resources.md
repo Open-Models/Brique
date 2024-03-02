@@ -212,6 +212,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 👩‍🎓 [Open Science: A Practical Guide for Early-Career Researchers](https://doi.org/10.5281/zenodo.7716152)
 - 👩‍🎓 [Mapping Open Science [practices] resources from around the world by discipline and principles](https://doi.org/10.21428/51e64700.893d7337)
 - 👩‍🎓 CCSD [trainings on HAL platform](https://www.ccsd.cnrs.fr/en/trainings/)
+- 👩‍🎓 [Open Access Journals Toolkit](https://www.oajournals-toolkit.org/), guide to set up and manage open access journals
 - 🎥 [Open Science : À qui les données de la science appartiennent-elles ?](https://www.youtube.com/watch?v=vsP8S63qOhY), La Tronche en biais ft. TenL95
 - 🎥 [Open science avec Célya Gruson-Daniel (HackYourPhD & DRISS) \| Probablement?](https://www.youtube.com/watch?v=5rWpNmm0dfA), Science4All
 - 👩🏽‍🔬 [Study on Open Access Diamonds Journals](https://scienceeurope.org/media/yejfasey/20210309_coalitions_diamond_study_final.pdf)
