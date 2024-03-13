@@ -287,6 +287,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [European Open Science Cloud](https://eosc-portal.eu/)
 - 🕴️ [Public Library of Science](https://plos.org/) (PLOS)
 - 🕴️ [Ouvrir la science](https://www.ouvrirlascience.fr/), French Committee for Open Science
+- 🕴️ 🇫🇷 [Team Science Ouverte](https://teamscienceouverte.org/), french open science community by Datactivist
 - 🕴️ 🇫🇷 [National Fund for Open Science](https://www.ouvrirlascience.fr/le-fonds-national-pour-la-science-ouverte/)
 - 🕴️ [Center For Open Science](https://www.cos.io/)
 - 🕴️ [SPARC](https://sparcopen.org/)
