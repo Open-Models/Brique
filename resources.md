@@ -143,6 +143,8 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 👩‍🎓 [opensource.dev](https://opensource.dev/), Google pedagogical website
 - 👩‍🎓 [The Linux Foundation’s training program](https://training.linuxfoundation.org/)
 - 👩‍🎓 [Best [Security] Practices for OSS Developers](https://github.com/ossf/wg-best-practices-os-developers), OSSF working group
+- 👩‍🎓 [Open Source Readiness](https://deploy-preview-223--open-source-readiness.netlify.app/docs/bok/Introduction) by FINOS, knowledge base for open source programs (office)
+- 👩‍🎓 [Handbook OSS Good Governance Initiative](https://ospo-alliance.org/ggi/) (GGI) by OSPO Alliance
 - 🏦 🇪🇺 [European Free and Open Source Software Auditing](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/informatics/eu-fossa-2-free-and-open-source-software-auditing_en) (EU-FOSSA-2)
 - 🏦 🇫🇷 Plan d'action logiciels libres et communs numériques : [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/)
 - 🏦 [Government Open Source Policies](https://www.csis.org/analysis/government-open-source-policies) (prior 2010), Center for Strategic & International Studies
